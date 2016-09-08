@@ -1,2 +1,6 @@
 # hello-world
-My First Repository
+
+Hello!
+
+I`d like to have some nice experience with Ruby, ROR, Sinatra, JS, AngularJS, NodeJS, MySQL, NoSQL, PostgreSQL, MongoDB, ReactJS,
+jQuery, HTML5, CSS3, Bootstrap, Less/Sass/SCSS.
